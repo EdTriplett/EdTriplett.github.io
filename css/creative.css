@@ -66,6 +66,11 @@ section {
   background: #222222;
   text-shadow: none; }
 
+.img-portfolio {
+  height: 300px;
+  width: 100%;
+}
+
 img::selection {
   max-width: 100%;
   height: auto;
